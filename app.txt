@@ -4,3 +4,4 @@ arison
 king
 killer
 bot
+sam
